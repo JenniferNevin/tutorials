@@ -1,0 +1,8 @@
+theme: minima
+title: Tutorials
+author: JenniferNevin
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Tutorials for vertex
+  
+show_excerpts: false # set to false to remove excerpts on the homepage
